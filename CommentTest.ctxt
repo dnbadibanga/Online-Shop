@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CommentTest
+comment0.text=\r\n\ The\ test\ class\ CommentTest.\r\n\r\n\ @author\ \ Kelachi\ Charles-Beke(201651312)\ and\ Divine\ Badibanga(201765203)\r\n\ @version\ 11.06.2019\r\n
+comment1.params=
+comment1.target=CommentTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ CommentTest\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+comment4.params=
+comment4.target=void\ testInit()
+comment4.text=\r\n\ Test\ for\ correct\ instantiation\ of\ constructors\r\n
+comment5.params=
+comment5.target=void\ testGetRating()
+comment5.text=\r\n\ Test\ getRating()\ method\ for\ correct\ returned\ value\r\n
+comment6.params=
+comment6.target=void\ testDownvote()
+comment6.text=\r\n\ Test\ downvote()\ method\ for\ correct\ updating\ of\ rating\ value\r\n
+numComments=7
